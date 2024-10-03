@@ -2,9 +2,9 @@ Repositório criado para armazenar os arquivos da terceira fase do do curso de C
 As pastas em "main" contêm os arquivos de cada aula e os exercícios respondidos de cada uma, nomeados como se segue.
 1. Módulo 9: Tarefa 1 | Tarefa 2
 2. Módulo 10: Tarefa 1 | Tarefa 2 | Tarefa 3
-3. Módulo 11:  Tarefa 1 |
+3. Módulo 11:  Tarefa 1 | Tarefa 2
              
-4. Módulo 12:  |
+4. Módulo 12: Tarefa 1 | Tarefa 2
              |
              
 5. Módulo 13: |
