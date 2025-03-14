@@ -7,7 +7,7 @@ As pastas em "main" contêm os arquivos de cada aula e os exercícios respondido
 4. Módulo 12: Tarefa 1 | Tarefa 2
              | Tarefa 3
              
-5. Módulo 13: Tarefa 1 |
+5. Módulo 13: Tarefa 1 | Tarefa 2
              
 6. Módulo 14: |
              |
