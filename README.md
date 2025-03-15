@@ -11,5 +11,5 @@ As pastas em "main" contêm os arquivos de cada aula e os exercícios respondido
              
 6. Módulo 14: Tarefa 1| gerar_relatorio.py
                  
-7. Módulo 15: |
+7. Módulo 15: Tarefa 1
             
